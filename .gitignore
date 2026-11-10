@@ -1,0 +1,76 @@
+# =========================
+# Node.js / React / Vite
+# =========================
+
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# =========================
+# Sistema Linux
+# =========================
+
+*~
+*.swp
+*.swo
+
+# =========================
+# Python (por si se usa después)
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# Archivos temporales
+# =========================
+
+tmp/
+temp/
+
+# =========================
+# Capturas y respaldos temporales
+# =========================
+
+capturas/tmp/
+backups/tmp/
+
+# =========================
+# Artefactos PDF generados
+# =========================
+
+memoria/*.aux
+memoria/*.log
+memoria/*.out
+
+# =========================
+# Docker opcional
+# =========================
+
+docker-data/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
