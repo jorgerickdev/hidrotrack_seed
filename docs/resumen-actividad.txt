@@ -1,0 +1,56 @@
+objetivos
+|1 poner en practica los conocimientos del uso de una api
+2 integrar los datos obtenidos en una aplicacion
+3 debe desarrollarse por componentes
+
+  
+  
+  objetivo secundario
+  1 formar parte de la actividad transversal del grado
+  2 la resolucion contribuye a la resolucion del proyecto completo
+  3 proyecto: automatizacion y gestion de hidrocarburos
+   
+   objetivo web
+   1 realizar una aplicacion web que obtenga y procese datos del portal de ministerio para la transformacion digital y funcion publica
+   
+   
+   fuente
+   Ministerio para la Transformación Digital y Función Pública. (2013). Precio de carburantes en las gasolineras españolas. Gobierno de España. https://datos.gob.es/es/catalogo/e05068001-precio-de-carburantes-en-las-gasolineras-espanolas (nota no sirve el link)
+  
+funcionalidades
+1. Adquirir los datos en formato json o xml
+2 informar cual gasolineria esta mas cercana a su posicion
+3 cual gasolineria esta en la ruta
+4 cual es la mas barata en un radio de km dado
+5 horario de la gasolieria
+6 filtrado de marcas
+7 reducirla si tiene tarjeta de fidelidad
+
+ intefaces
+ 1 en la misma pagina no cambios de pagina
+ 2 interfaz con entrada y salida}
+ 3 la info debe mostrarse formateada formulario o div
+ 
+  memoria
+  1 en pdf
+  2 informar aplicacion realizada y descripcion
+  3 informar de elementos y su funcionamiento
+  procesamiento de la informacion recibida
+  como se adquirio la informacion
+  10 paginas
+  
+   
+    codigo
+    1 mostrar lo importante del codigo
+    llamada
+    procesamient 
+    muestra final
+    
+     conclusiones
+     sobre la actividad
+     
+      documentacion
+      1 incluir fichero con recursos necesarios para visualizar el proceso
+      2 informar si se subio a alguna plataforma
+      3 url de git
+      1 
