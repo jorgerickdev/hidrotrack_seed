@@ -1,8 +1,3 @@
-# HydroTrack Seed
-
-Proyecto semilla para el desarrollo de una plataforma de consulta, análisis y gestión de información relacionada con estaciones de servicio y combustibles.
-
----
 
 ## Descripción
 
@@ -213,3 +208,7 @@ y realizar la primera consulta a una API REST utilizando Axios.
 ## Licencia
 
 Proyecto académico utilizado para fines educativos dentro del programa de Ingeniería en Sistemas.
+=======
+# hidrotrack_seed
+Semilla de trabajo escolar y servira de plataforma para el proyecto final de la universidad
+
